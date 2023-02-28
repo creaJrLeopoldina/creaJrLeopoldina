@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center" > Seja Bem-Vindo ! </h1> 
 
-<!--
-**creaJrLeopoldina/creaJrLeopoldina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Nós somos o Crea MG Jr -  Leopoldina, uma organização sem fins lucrativos. Nosso programa visa moldar os alunos dos cursos de Engenharia e Agronomia, do <a href="https://www.crea-mg.org.br">CREA MG</a>, sedeado em Belo Horizonte. </h3>
+<br>
 
-Here are some ideas to get you started:
+<h2>Nossos membros</h2>
+Em breve...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Nossas Redes Sociais</h2>
+<ul>
+  <li><a href="https://www.facebook.com/CreaJrMGLeopoldina/">Facebook</a></li>  
+  <li><a href="https://instagram.com/creajrmgleopoldina?igshid=MjkzY2Y1YTY=">Instagram</a></li>
+  <li><a href="https://www.linkedin.com/company/75716792/admin/">LinkedIn</a></li>
+  <li><a href="https://www.youtube.com/@leopoldinacrea-minasjr.">YouTube</a></li>
+</ul>
+
+
