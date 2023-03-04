@@ -1,6 +1,6 @@
 <h1 align="center" > Seja Bem-Vindo ! </h1> 
 
-<h3> Nós somos o Crea MG Jr -  Leopoldina, uma organização sem fins lucrativos. Nosso programa visa moldar os alunos dos cursos de Engenharia e Agronomia, do <a href="https://www.crea-mg.org.br">CREA MG</a>, sedeado em Belo Horizonte. </h3>
+<h3> Nós somos o Crea Jr-MG Núcleo Leopoldina, uma organização sem fins lucrativos. Nosso programa visa moldar os alunos dos cursos de Engenharia e Agronomia, do <a href="https://www.crea-mg.org.br">CREA MG</a>, sedeado em Belo Horizonte. </h3>
 <br>
 
 <h2>Nossos membros</h2>
